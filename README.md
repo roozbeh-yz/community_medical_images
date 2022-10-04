@@ -1,1 +1,3 @@
-# community_medical_images
+# Community Detection in Medical Image Datasets: Using Wavelets and Spectral Methods
+
+This paper uses three medical image datasets. First dataset is provided by contains a mixture of chest X-ray and CT-scan images of patients diagnosed with COVID-19. Dataset is publicly available at https://github.com/ieee8023/covid-chestxray-dataset. Second dataset is the histological images of colorectal cancer (CRC), publicly available at https://zenodo.org/record/1214456 and contains labeled images corresponding to 9 different types of colon tissues. Third dataset is a SARS-COV-2 CT-scan Dataset which is publicly available at https://github.com/Plamen-Eduardo/xDNN-SARS-CoV-2-CT-Scan.
