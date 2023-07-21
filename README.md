@@ -1,6 +1,6 @@
 # Community Detection in Medical Image Datasets: Using Wavelets and Spectral Methods
 
-This paper was presented the 3rd Conference on Medical Imaging and Computer-Aided Diagnosis in 2022 and published in the Springer's Lecture Notes in Electrical Engineering. Here is the preprint: https://arxiv.org/pdf/2112.12021.pdf
+This paper was presented at the 3rd Conference on Medical Imaging and Computer-Aided Diagnosis (https://www.micad.org/2022/) in 2022 and going to be published in the Springer's Lecture Notes in Electrical Engineering. Here is the preprint: https://arxiv.org/pdf/2112.12021.pdf
 
 The proposed method uses wavelets to extract features from images and then performs spectral analysis on the wavelet features to idenify groups of similar images in the datasets. Algorithm provided in this repository is written in Matlab. I plan to provide a Python version in the near future. Please feel free to reach out if you have any questions.
 
